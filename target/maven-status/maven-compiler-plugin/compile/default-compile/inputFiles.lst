@@ -1,0 +1,12 @@
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/controller/impl/UserControllerImpl.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/exception/UserNotFoundException.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/controller/impl/AdminControllerImpl.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/repository/AdminRepository.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/controller/interfaces/IUserController.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/service/UserService.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/UserServiceApplication.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/model/entities/User.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/repository/UserRepository.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/model/entities/Admin.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/controller/interfaces/IAdminController.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/user-service/src/main/java/com/ironhack/erp/userservice/service/AdminService.java

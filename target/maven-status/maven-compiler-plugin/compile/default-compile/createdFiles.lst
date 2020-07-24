@@ -1,0 +1,12 @@
+com/ironhack/erp/userservice/UserServiceApplication.class
+com/ironhack/erp/userservice/service/UserService.class
+com/ironhack/erp/userservice/controller/interfaces/IAdminController.class
+com/ironhack/erp/userservice/service/AdminService.class
+com/ironhack/erp/userservice/repository/AdminRepository.class
+com/ironhack/erp/userservice/controller/impl/UserControllerImpl.class
+com/ironhack/erp/userservice/model/entities/User.class
+com/ironhack/erp/userservice/exception/UserNotFoundException.class
+com/ironhack/erp/userservice/repository/UserRepository.class
+com/ironhack/erp/userservice/model/entities/Admin.class
+com/ironhack/erp/userservice/controller/impl/AdminControllerImpl.class
+com/ironhack/erp/userservice/controller/interfaces/IUserController.class
